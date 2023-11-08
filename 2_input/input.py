@@ -5,3 +5,4 @@ In Python, the input() function is like asking someone a question and waiting fo
 name = input("what's your name?\n")
 
 print("hello " + name)
+print(f"hello {name}")
