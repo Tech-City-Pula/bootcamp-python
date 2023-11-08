@@ -1,3 +1,7 @@
+"""
+Conditions in Python are like making a decision based on a question. You ask a question that can be answered as either "True" or "False" and then tell the computer what to do in each case. For example, using an if statement, you can check if a number is greater than another: if number > 10:. This means "if the number is greater than 10, do the following." You can also use else to specify what should happen if the condition is not true. Conditions help your program make choices and take different actions based on the data it has.
+"""
+
 favorite_number_as_string = input("what's your favorite number?\n")
 x = int(favorite_number_as_string)
 

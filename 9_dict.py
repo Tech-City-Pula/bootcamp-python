@@ -1,3 +1,7 @@
+"""
+Dictionaries in Python are like a real-life dictionary where you look up a word (a "key") to find its definition (a "value"). They are created with curly braces {} containing pairs of keys and values, like my_dict = {'name': 'Alice', 'age': 25}. To access the value, you use the key like this: my_dict['name'] would give you 'Alice'. You can change values, add new pairs, or remove them. Dictionaries are great when you want to associate items with a meaningful label instead of just a position in a list.
+"""
+
 # dict
 player = {
     "username": "hackerman",

@@ -1,3 +1,7 @@
+"""
+Lambda functions in Python are like quick, one-time-use tools that you make on the spot. They're small anonymous functions defined with the lambda keyword. Lambda functions can take any number of arguments, but they can only have one expression, which is evaluated and returned. You'd use a lambda function when you need a simple function for a short period of time, and you're typically not going to reuse it. They are handy for simple operations in methods that expect a function as an argument, like sorted(), map(), filter(), etc.
+"""
+
 # define a lambda function to add two numbers
 add = lambda x, y: x + y
 
