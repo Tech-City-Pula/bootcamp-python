@@ -26,3 +26,6 @@ for item in items_to_add_to_basket:
 # use an array method to do the same
 basket.extend(items_to_add_to_basket)
 
+# check if item exists inside the array
+if "apples" in basket:
+    print("we have apples!")
